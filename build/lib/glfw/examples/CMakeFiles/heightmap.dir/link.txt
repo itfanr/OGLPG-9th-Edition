@@ -1,0 +1,1 @@
+/usr/bin/cc   -fopenmp   CMakeFiles/heightmap.dir/heightmap.c.o CMakeFiles/heightmap.dir/__/deps/glad.c.o  -o ../../../../bin/heightmap  -L/home/itfanr/vr_develop/opengl/OGLPG-9th-Edition/lib -rdynamic ../../libglfw3.a -lrt -lm -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl -Wl,-rpath,/home/itfanr/vr_develop/opengl/OGLPG-9th-Edition/lib 

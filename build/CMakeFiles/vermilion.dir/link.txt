@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libvermilion.a  CMakeFiles/vermilion.dir/lib/gl3w.c.o CMakeFiles/vermilion.dir/lib/LoadShaders.cpp.o CMakeFiles/vermilion.dir/lib/targa.cpp.o CMakeFiles/vermilion.dir/lib/vdds.cpp.o CMakeFiles/vermilion.dir/lib/loadtexture.cpp.o CMakeFiles/vermilion.dir/lib/vermilion.cpp.o CMakeFiles/vermilion.dir/lib/vbm.cpp.o
+/usr/bin/ranlib lib/libvermilion.a

@@ -1,0 +1,1 @@
+/usr/bin/cc   -fopenmp   CMakeFiles/events.dir/events.c.o CMakeFiles/events.dir/__/deps/getopt.c.o  -o ../../../../bin/events  -L/home/itfanr/vr_develop/opengl/OGLPG-9th-Edition/lib -rdynamic ../../libglfw3.a -lrt -lm -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl -Wl,-rpath,/home/itfanr/vr_develop/opengl/OGLPG-9th-Edition/lib 
